@@ -10,7 +10,7 @@ This video demonstrates the simulation of a random walk in Python. Random walks 
 
 ### [YouTube Video 2](https://youtu.be/umgjQlnhrhM)
 
-#V3: How to simulate Share Prices in Python? 
+# V3: How to simulate Share Prices in Python? 
 This video demonstrates the simulation of a share price in Python. Using Yahoo Finance, we look at real financial data and explore drifts in a Random Walk model. Random Walks need to be modified as share prices could become negative. We explore Geometric Brownian Motion and its properties based on Osborne (1959) and Fama (1965). Finally, we implement a simulation in Python that has the desired properties.
 
 ### [YouTube Video 3](https://youtu.be/ovpuGg5esO0)
