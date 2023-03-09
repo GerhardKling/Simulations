@@ -10,7 +10,7 @@ This video demonstrates the simulation of a random walk in Python. Random walks 
 
 ### [YouTube Video 2](https://youtu.be/umgjQlnhrhM)
 
-# V3: How to simulate Share Prices in Python? 
+# V3: How to simulate share prices in Python? 
 This video demonstrates the simulation of a share price in Python. Using Yahoo Finance, we look at real financial data and explore drifts in a Random Walk model. Random Walks need to be modified as share prices could become negative. We explore Geometric Brownian Motion and its properties based on Osborne (1959) and Fama (1965). Finally, we implement a simulation in Python that has the desired properties.
 
 ### [YouTube Video 3](https://youtu.be/ovpuGg5esO0)
@@ -32,3 +32,10 @@ Does technical analysis work? One has to accept that there are theoretical chall
 - 26:40 Learn Technical Analysis
 
 ### [YouTube Video 4](https://youtu.be/cymen-uLiP0)
+
+# V5: How to simulate interest rates in Python?
+This video explains the Vasicek (1977) model, which can be used to simulate interest rates. There are many applications in finance and risk management where simulated interest rates can be useful. Vasicek model belongs to the class of one-factor interest rate models. These models have in common that only one factor (the market factor) drives interest rates. I will explain how this model works and how we can implement the model in Python. We will create our own class and two methods. The first method generates a Wiener process and the second method provides simulated interest rates using the Vasicek model.
+
+### [YouTube Video 5](https://youtu.be/339iI58ipOU)
+
+
