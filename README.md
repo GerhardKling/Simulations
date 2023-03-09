@@ -14,3 +14,21 @@ This video demonstrates the simulation of a random walk in Python. Random walks 
 This video demonstrates the simulation of a share price in Python. Using Yahoo Finance, we look at real financial data and explore drifts in a Random Walk model. Random Walks need to be modified as share prices could become negative. We explore Geometric Brownian Motion and its properties based on Osborne (1959) and Fama (1965). Finally, we implement a simulation in Python that has the desired properties.
 
 ### [YouTube Video 3](https://youtu.be/ovpuGg5esO0)
+
+# V4: Can technical analysis predict share prices?
+Does technical analysis work? One has to accept that there are theoretical challenges to the idea that technical analysis can be used to predict share prices. In addition, empirical evidence suggests that stock returns are hard to predict. This video illustrates the issues using real financial data. I talk you through an implementation of trading strategies in Python. Using simple moving averages, we will generate trading signals and calculate our profits. Will we succeed? Finally, I will discuss how you can learn more about technical analysis without spending "silly money" on online courses and "special" software. DIY is the way to do it! Let's get ready to code and trade!
+
+## Chapters
+- 0:00 Introduction
+- 0:32 Theory
+- 1:37 Empirical evidence
+- 2:34 Financial data
+- 3:04 Data import
+- 5:24 Simple Moving Average
+- 6:29 Trading signals
+- 6:54 SMA in Python
+- 13:55 Trading signals in Python
+- 22:15 Matching trades
+- 26:40 Learn Technical Analysis
+
+### [YouTube Video 4](https://youtu.be/cymen-uLiP0)
