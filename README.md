@@ -38,4 +38,7 @@ This video explains the Vasicek (1977) model, which can be used to simulate inte
 
 ### [YouTube Video 5](https://youtu.be/339iI58ipOU)
 
+# V6: The Cox-Ingersoll-Ross Model in Python
+In a previous video, we developed the Rate class, which enables us to simulate interest rates using the Vasicek (1977) model. We will extend our class by adding a new method that uses the Cox-Ingersoll-Ross Model. The difference is in the stochastic volatility component, which is scaled by the square root of past interest rates. Hence, volatility increases in an environment with high-interest rates, which is in line with empirical evidence.
 
+### [YouTube Video 6](https://youtu.be/V76Q38BkILI)
