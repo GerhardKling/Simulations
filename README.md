@@ -1,5 +1,5 @@
 # Simulations
-This repository contains material for the playlist on simulations hosted by YUNIKARN. Visit us on https://www.yunikarn.com
+This repository contains material for the playlist on simulations hosted by YUNIKARN. Visit us on [YouTube](https://www.youtube.com/@YUNIKARN)
 
 # V1: Why do we need simulations - don't we have enough data?
 This video introduces our new playlist dedicated to simulations. This is a joint project with our YouTube partner Julian (https://www.youtube.com/c/JulianRighSampedro). This introduction addresses the following questions: (1) Don’t we have enough data? (2) Why are simulations useful? – and (3) What will you learn? In this playlist, we will explore applications in Statistics, Finance, and Physics. Finally, you will learn how to code simulations in various programming languages, including Python, R, Stata and OpenBugs/WinBugs. Moreover, we need to speed up our code using various methods. 
@@ -39,6 +39,12 @@ This video explains the Vasicek (1977) model, which can be used to simulate inte
 ### [YouTube Video 5](https://youtu.be/339iI58ipOU)
 
 # V6: The Cox-Ingersoll-Ross Model in Python
-In a previous video, we developed the Rate class, which enables us to simulate interest rates using the Vasicek (1977) model. We will extend our class by adding a new method that uses the Cox-Ingersoll-Ross Model. The difference is in the stochastic volatility component, which is scaled by the square root of past interest rates. Hence, volatility increases in an environment with high-interest rates, which is in line with empirical evidence.
+In a previous video, we developed the Rate class, which enables us to simulate interest rates using the Vasicek (1977) model. We will extend our class by adding a new method that uses the Cox-Ingersoll-Ross Model. The difference is in the stochastic volatility component, which is scaled by the square root of past interest rates. Hence, volatility increases in an environment with high interest rates, which is in line with empirical evidence.
 
 ### [YouTube Video 6](https://youtu.be/V76Q38BkILI)
+
+# V7: 
+
+
+
+# V8: 
