@@ -2,7 +2,7 @@
 This repository contains material for the playlist on simulations hosted by YUNIKARN. Visit us on [YouTube](https://www.youtube.com/@YUNIKARN)
 
 # V1: Why do we need simulations - don't we have enough data?
-This video introduces our new playlist dedicated to simulations. This is a joint project with our YouTube partner Julian (https://www.youtube.com/c/JulianRighSampedro). This introduction addresses the following questions: (1) Don’t we have enough data? (2) Why are simulations useful? – and (3) What will you learn? In this playlist, we will explore applications in Statistics, Finance, and Physics. Finally, you will learn how to code simulations in various programming languages, including Python, R, Stata and OpenBugs/WinBugs. Moreover, we need to speed up our code using various methods. 
+This video introduces our new playlist dedicated to simulations. This is a joint project with our YouTube partner Julian (https://www.youtube.com/c/JulianRighSampedro). This introduction addresses the following questions: (1) Don’t we have enough data? (2) Why are simulations useful? – and (3) What will you learn? In this playlist, we will explore applications in Statistics, Finance, and Physics. Finally, you will learn how to code simulations in various programming languages, including Python, R, Stata, and OpenBugs/WinBugs. Moreover, we need to speed up our code using various methods. 
 ### [YouTube Video 1](https://youtu.be/3LJlC0thaJc)
 
 # V2: How to simulate a Random Walk in Python?
@@ -43,8 +43,12 @@ In a previous video, we developed the Rate class, which enables us to simulate i
 
 ### [YouTube Video 6](https://youtu.be/V76Q38BkILI)
 
-# V7: 
+# V7: Random walks with memory
+This video explores random walks with memory. This type of stochastic process is sometimes called an elephant random walk. We have a look at these funny random walks proposed by Schuetz and Trimper’s (2004) paper published in Physical Review E. We develop a Python code to simulate these stochastic processes.
 
+### [YouTube Video 7](https://youtu.be/AWCwlEEOslE)
 
+# V8: Intermittent Transport
+This video develops a Python script to simulate random walks with memory that permit intermittent transport. This sounds complicated, but it is a modification of the elephant random walk, which I covered in a previous video. The video refers to Kumar, Harbola, and Lindenberg’s (2010) model published in Physical Review E. This is an extension of the random walk with memory based on Schuetz and Trimper’s (2004). There are many possible applications of this model. Intermittance is very common in financial markets or other settings.
 
-# V8: 
+### [YouTube Video 8](https://youtu.be/nDgP9reitj0)
