@@ -49,6 +49,22 @@ This video explores random walks with memory. This type of stochastic process is
 ### [YouTube Video 7](https://youtu.be/AWCwlEEOslE)
 
 # V8: Intermittent Transport
-This video develops a Python script to simulate random walks with memory that permit intermittent transport. This sounds complicated, but it is a modification of the elephant random walk, which I covered in a previous video. The video refers to Kumar, Harbola, and Lindenberg’s (2010) model published in Physical Review E. This is an extension of the random walk with memory based on Schuetz and Trimper’s (2004). There are many possible applications of this model. Intermittance is very common in financial markets or other settings.
+This video develops a Python script to simulate random walks with memory that permit intermittent transport. This sounds complicated, but it is a modification of the elephant random walk, which I covered in a previous video. The video refers to Kumar, Harbola, and Lindenberg’s (2010) model published in Physical Review E. This is an extension of the random walk with memory based on Schuetz and Trimper’s (2004). This model has many possible applications. Intermittance is very common in financial markets or other settings.
 
 ### [YouTube Video 8](https://youtu.be/nDgP9reitj0)
+
+# V9: An introduction to SimPy
+This video introduces SimPy, a powerful Python library for building and running simulations in real-time. Data cannot be observed in many applications, or we wish to model rare events (e.g., conflicts, travel bans, etc.). In these cases, simulations might offer valuable insights. I have been using SimPy to model supply chains (e.g., disruption of supply chains, risk management. I will show you how to get started in SimPy by creating a simple demand model. We will learn about events, environments, running processes, and collecting the generated data.
+
+### [YouTube Video 9](https://youtu.be/zybGXgkRUxw)
+
+# V10: Simulating supply chains in SimPy
+We attempt to build a more complex supply chain simulation with disruptions. Demand is random, as customers arrive at random times and buy a random number of items. Container ships are used to replenish inventory, but their journey time is a random variable. Various processes and events interact in this simulation. We will create classes and process methods to capture inventory, demand, and supply.
+
+### [YouTube Video 10](https://youtu.be/mFTc0m8sOHE)
+
+
+
+
+
+
