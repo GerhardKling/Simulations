@@ -63,6 +63,9 @@ We attempt to build a more complex supply chain simulation with disruptions. Dem
 
 ### [YouTube Video 10](https://youtu.be/mFTc0m8sOHE)
 
+# V11: Trade credit simulation
+We start with simulating demand using a Bernoulli process, captured in basic.py. Next, we model the cash conversion cycle in trade.py. Finally, competition.py develops an agent-based model. Firms can lower prices if they face liquidity risk to attract more customers. 
+
 
 
 
